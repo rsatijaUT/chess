@@ -1,1 +1,1 @@
-A repo to test Chess algorithms 
+Victor Sim's code and data
